@@ -78,3 +78,7 @@ h5 {
     text-decoration: none;
     color: var(--secondary-color);
 }
+
+@media (max-width: 414px) {
+    body{max-width: 70%;}
+}
