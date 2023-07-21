@@ -63,7 +63,7 @@ h5 {
   color: var(--accent-color);
 }
 
-.navigation-links a:hover{
+.navigation-links a:hover {
   margin: 20px;
   border-radius: 4px;
   padding: 12px 10px;
@@ -74,11 +74,13 @@ h5 {
   color: var(--accent-color);
 }
 
-.contactus-link{
-    text-decoration: none;
-    color: var(--secondary-color);
+.contactus-link {
+  text-decoration: none;
+  color: var(--secondary-color);
 }
 
 @media (max-width: 414px) {
-    body{max-width: 70%;}
+  body {
+    max-width: 70%;
+  }
 }
